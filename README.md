@@ -1,6 +1,6 @@
 # Catch-The-Dot
 
-![snowBoarderGameplay](https://github.com/user-attachments/assets/89c548d3-4561-4aa3-a563-929c8d5dfa25)
+![Untitled video - Made with Clipchamp (2)](https://github.com/user-attachments/assets/b111985c-a168-4e5d-b275-3792ff2fef28)
 
 
 A mini game for two players.
